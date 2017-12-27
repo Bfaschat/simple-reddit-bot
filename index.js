@@ -1,6 +1,7 @@
 const Telegraf = require('telegraf');
 const { Markup } = require('telegraf');
-const app = new Telegraf(YOUR_TOKEN);
+const app = new Telegraf(
+375058090:AAFhr0AJfnpf9Ufc85dZXti2R8sBZapOqyA);
 const axios = require('axios'); // add axios
 
 let state = {};
